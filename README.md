@@ -13,8 +13,6 @@ This repo is built following a tutorial published on CircleCI blog under the Cir
 
 Join a team of freelance writers and write about your favorite technology topics for the CircleCI blog. Read more about the program [here][gwp-program].
 
-
-
 [blog]: <add_link>
 [author]: https://github.com/yemiwebby
 
